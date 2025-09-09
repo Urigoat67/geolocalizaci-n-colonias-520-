@@ -1,0 +1,22 @@
+myData = [
+[19.2774335,-98.8458326, 'Los Héroes Chalco 3, 56644 San Martín Cuautlalpan, MEX, Mexico'],
+[19.3249583,-98.9177398, 'Calle Wenceslao Victoria Soto, 56564 Ixtapaluca, MEX, Mexico'],
+[19.4045642,-99.0695045, 'Agrícola Oriental, Calzada General Ignacio Zaragoza, Colonia Guelatao Benito Juárez, 09100 Mexico City, CMX, Mexico'],
+[19.3916479,-99.0870653, 'Avenida San Rafaél Atlixco, Ex Ejido Magdalena Mixhuca, 08510 Mexico City, CMX, Mexico'],
+[19.4045642,-99.0695045, 'Agrícola Oriental, Calzada General Ignacio Zaragoza, Colonia Guelatao Benito Juárez, 09100 Mexico City, CMX, Mexico'],
+[19.326434,-99.0765248, 'Calle Catarroja, Colonia Cerro de la Estrella, 09860 Mexico City, CMX, Mexico'],
+[19.3485501,-99.0136191, '2da Ampliación Santiago Acahualtepec, 09609 Mexico City, CMX, Mexico'],
+[19.3359718,-98.9964224, 'Colegio Miravalles, Calle Popocatépetl 39, Colonia Miravalle, 09696 Pueblo Santiago Acahualtepec, CMX, Mexico'],
+[19.3292317,-99.0199301, 'Colonia Tenorios, 09680 Mexico City, CMX, Mexico'],
+[20.18381,-100.31351, 'La Paz, México, Mexico'],
+[20.18381,-100.31351, 'La Paz, México, Mexico'],
+[19.19251,-99.02317, 'Milpa Alta, Mexico City, Mexico'],
+[19.4019618,-99.019438, 'Mercado Nuevo Evolucion, Calle Palacio Nacional, 57700 Nezahualcóyotl, MEX, Mexico'],
+[19.4525213,-99.049547, 'Benito Juarez, Avenida Aeropuerto, Colonia Ciudad Lago, 57185 Nezahualcóyotl, MEX, Mexico'],
+[19.4019618,-99.019438, 'Mercado Nuevo Evolucion, Calle Palacio Nacional, 57700 Nezahualcóyotl, MEX, Mexico'],
+[19.40061,-99.01483, 'Ciudad Nezahualcoyotl, México, Mexico'],
+[19.3014573,-99.0580889, 'Colonia Los Olivos, 13210 Mexico City, CMX, Mexico'],
+[19.227296,-98.9519743, 'Santa Cruz Mixquic, 13625 Valle de Chalco Solidaridad, MEX, Mexico'],
+[19.2751611,-98.9214413, 'Parque Guadalupana, 56616 Valle de Chalco Solidaridad, MEX, Mexico'],
+[19.244893,-99.0925368, 'Santa María Nativitas, 16450 Mexico City, CMX, Mexico']
+];
